@@ -11,7 +11,7 @@
         </j:if>
     </l:tasks>
     <j:if test="${!it.building}">
-        <l:task icon="images/24x24/edit-delete.png" href="${h.getActionUrl(it.url,action)}/confirmDelete" title="${%Delete} ${action.displayName}"
+        <l:task icon="icon-edit-delete icon-md" href="${h.getActionUrl(it.url,action)}/confirmDelete" title="${%Delete} ${action.displayName}"
             permission="${it.DELETE}" />
     </j:if>
 </j:jelly>

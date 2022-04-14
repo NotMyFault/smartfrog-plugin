@@ -1,7 +1,5 @@
-Jenkins/Hudson SmartFrog plugin
+Jenkins SmartFrog plugin
 
-http://www.jenkins-ci.org/
+http://www.jenkins.io/
 
 http://www.smartfrog.org/
-
-
